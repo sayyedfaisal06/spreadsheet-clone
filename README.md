@@ -76,7 +76,7 @@ task-1/
 1. **Clone the repository**
 
 ```bash
-git clone [<repository-url>](https://github.com/sayyedfaisal06/spreadsheet-clone.git)
+git clone https://github.com/sayyedfaisal06/spreadsheet-clone.git
 ```
 
 2. **Install dependencies**
